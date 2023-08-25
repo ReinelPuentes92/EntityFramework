@@ -64,3 +64,8 @@ D:\Cursos\2023\.Net\EfProject\obj\Debug\net7.0\refint\EfProject.dll
 D:\Cursos\2023\.Net\EfProject\obj\Debug\net7.0\EfProject.pdb
 D:\Cursos\2023\.Net\EfProject\obj\Debug\net7.0\EfProject.genruntimeconfig.cache
 D:\Cursos\2023\.Net\EfProject\obj\Debug\net7.0\ref\EfProject.dll
+D:\Cursos\2023\.Net\EfProject\bin\Debug\net7.0\Humanizer.dll
+D:\Cursos\2023\.Net\EfProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Cursos\2023\.Net\EfProject\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Cursos\2023\.Net\EfProject\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Cursos\2023\.Net\EfProject\bin\Debug\net7.0\System.CodeDom.dll
