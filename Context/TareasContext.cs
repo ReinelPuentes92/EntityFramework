@@ -69,6 +69,16 @@ namespace EfProject.Context
                 FechaEntrega = DateTime.Now
             });
 
+            tareas.Add(new Tarea () {
+                TareaId = Guid.Parse("37581918-83d9-4f49-bd70-a3fe6393b1e1"),
+                CategoriaId = Guid.Parse("7198ea7b-115b-416b-952d-1f47bfbc0208"),
+                Titulo = "Leer",
+                Descripcion = "Leer en las noches",
+                Prioridad = Prioridad.Baja,
+                FechaCreacion = DateTime.Now,
+                FechaEntrega = DateTime.Now
+            });
+
             modelBuilder.Entity<Tarea>(tarea => {
                 tarea.ToTable("Tarea");
 
